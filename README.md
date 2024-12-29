@@ -1,5 +1,24 @@
 # Brainwave_Matrix_Intern-Task-2
 
+### Project Title: Social Media Sentiment Analysis
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Field Descriptions for the Retail Sales](#field-descriptions-for-the-retail-sales)
+
+[Data Preparation](#data-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Result](#Result)
+
+[Recommendations](#Recommendations)
+
 ### Project Overview
 The goal of this project is to identify patterns, assess engagement levels, and analyze the sentiment trends across various languages, post types, sentiment score, sentiment labels and periods. 
 
