@@ -7,7 +7,7 @@
 
 [Tools Used](#tools-used)
 
-[Field Descriptions for the Retail Sales](#field-descriptions-for-the-retail-sales)
+[Field Descriptions for Social Media Sentiment](#field-descriptions-for-social-media-sentiment)
 
 [Data Preparation](#data-preparation)
 
