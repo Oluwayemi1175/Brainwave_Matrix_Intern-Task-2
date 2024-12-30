@@ -69,3 +69,13 @@ Data Visualization for Social Media Sentiment.
 ![Task 2 brainwave_analysis](https://github.com/user-attachments/assets/1de8a5b2-9c71-4d02-8246-eea81bf41ad5)
 
 ### Result
+The social media sentiment analysis revealed that neutral sentiment accounted for the largest share, with 682 posts, followed closely by negative sentiment at 675 posts and positive sentiment at 643 posts. 
+Among the languages, Spanish demonstrated the highest engagement and sentiment activity, followed by German and English. 
+The analysis identified images as the most consistently utilized and effective content type, likely because they are highly engaging and can quickly communicate emotions or messages.
+
+### Recommendations
+- To address neutral sentiment, there should be more of emotional resonant content to posts, such as storytelling or relatable scenarios.
+- To reduce negative sentiment, monitor and examine reoccurring themes in unfavorable posts to pinpoint areas that want improvement.
+- High-quality and visually appealing images need to be prioritized in posts to maintain engagement
+- The development of multilingual content strategies to cater to diverse audiences.
+- To increase content for video, a short video can be created to capture the attention of the audience without overwhelming the user's data or time while the text can be concise by highlighting the essential information or updates. 
